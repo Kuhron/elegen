@@ -1,0 +1,9 @@
+build==.*
+-e git\+ssh.*
+exceptiongroup==.*
+iniconfig==.*
+packaging==.*
+pluggy==.*
+pyproject_hooks==.*
+pytest==.*
+tomli==.*
