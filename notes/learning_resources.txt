@@ -1,0 +1,11 @@
+similar projects
+- https://github.com/rlguy/FantasyMapGenerator/blob/master/README.md
+- https://github.com/mewo2/terrain
+
+websites / write-ups
+- https://web.archive.org/web/20240201005356/http://mewo2.com/notes/terrain/
+-- about this project: https://github.com/mewo2/terrain
+- https://web.archive.org/web/20240201112533/https://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
+
+algorithms
+- Planchon-Darboux, for finding where water will fill in depressions in elevation map

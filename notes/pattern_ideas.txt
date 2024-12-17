@@ -1,0 +1,21 @@
+- arachnoid terrain (Venus)
+- islands of hot cocoa mix floating in hot milk, with some of the edges dissolving and diffusing off into the milk while the dry mix on the interior is kept out of contact with the liquid
+- volcanism chain paths (which I made before, need to port that code over here)
+- simple circle addition
+- cracked ground as in a drought
+- fingerprints, palm lines
+- craters, resurgent domes
+- volcanic arcs
+- ocean currents (given location of bodies of water)
+- wind currents
+- temperature, precipitation, other climatic variables
+- the kind of crap that's on Miranda (chevron terrain and whatever else)
+- cracks/lines on ice plates (Europa)
+- cracks radiating from heavy/thick continental crust (Tharsis Bulge, Mars)
+- canyon systems (Grand Canyon, Earth; Valles Marineris, Mars)
+- river deltas
+- river meanders, oxbow lakes
+- maria (the Moon)
+- folds in the Appalachians between Knoxville and Chattanooga
+- awesome Sahara stuff (e.g. around Chad/Niger/Libya tripoint, lava flows around Toussidé, Mauritania stuff around Atar, Western Sahara between Samara and Mahbes, sand rivers, windswept sand patterns, mountains sticking out of sand like around 15°56'23.1"N 11°23'44.5"E)
+

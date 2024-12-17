@@ -1,0 +1,6 @@
+- want this package to contain various methods for generating terrain and other variables on a map
+-- so don't just pick some set of methods you like best; put the kitchen sink in here so others (and your future self) can easily play around with options and see what weird results come up
+
+- make it compatible with icosalattice as well as a square lattice not on a sphere, and other conceivable lattices (e.g. irregularly spaced points on a subset of the plane or on the sphere), ideally any graph
+- make it compatible with any set of points that have distances and directions to each other, without needing graph edges connecting them
+
