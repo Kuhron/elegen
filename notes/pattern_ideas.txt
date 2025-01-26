@@ -18,4 +18,7 @@
 - maria (the Moon)
 - folds in the Appalachians between Knoxville and Chattanooga
 - awesome Sahara stuff (e.g. around Chad/Niger/Libya tripoint, lava flows around Toussidé, Mauritania stuff around Atar, Western Sahara between Samara and Mahbes, sand rivers, windswept sand patterns, mountains sticking out of sand like around 15°56'23.1"N 11°23'44.5"E)
+- stuff from my Desmos graph "ComplexNumberFractals"
+- contours of distances to points in an MDS plot (distances computed in the actual space)
+-- similarly, aggregations of functions of those distances (e.g. 1/r**2 or -exp(x), etc) plotted on 2D MDS
 
